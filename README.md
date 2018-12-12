@@ -1,4 +1,6 @@
 # **wn-cli**
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FskyFi%2Fweapp-native.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FskyFi%2Fweapp-native?ref=badge_shield)
+
 
 > 暂不维护，推荐一个 https://github.com/NervJS/taro
 
@@ -245,3 +247,7 @@ async onShow() {
 * 最后的目的是能满足所有（99%）微信小程序开发者的需求，全面（99%）覆盖小程序开发。像 `React Native` 开发 `APP` 一样，用`wn-cli` 开发 `weapp （微信小程序）`。
 
 * 离目标还有不小的距离，如果你也是 `React` 派，对微信小程序有兴趣，可以 `fork` 代码共同建设维护这个工程 ，或许比较懒，那就直接提 [`ISSUE`](https://github.com/skyFi/weapp-native/issues/new)，这两样都会使我开心一整天的，当然，你的`star`也会令我开心好久。
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FskyFi%2Fweapp-native.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FskyFi%2Fweapp-native?ref=badge_large)
